@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
-import ErrorBoundary from './errorboundary.jsx'
+import ErrorBoundary from './ErrorSoundary.jsx'
 import App from './App.jsx'
 import './index.css'
 
