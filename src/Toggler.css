@@ -1,0 +1,35 @@
+.Toggler {
+  font-size: 5rem;
+  cursor: pointer;
+}
+
+button{
+  background-color: azure;
+  color: #EA738D;
+  margin-left: 2rem;
+}
+
+button:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  color: white;
+  background-color: #EA738D;
+}
+
+.up{
+  margin-bottom: 3rem;
+}
+
+.Toggle{
+  margin: 0 auto;
+}
+
+body{
+  margin: 0 auto;
+}
+
+.button{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+

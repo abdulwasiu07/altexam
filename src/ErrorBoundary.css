@@ -1,0 +1,12 @@
+button{
+    background-color: azure;
+    color: brown;
+    margin-left: 2rem;
+  }
+
+
+ button:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    color: white;
+    background-color: brown;
+  }
