@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Link } from 'react-router-dom';
+import Home from './App.jsx';
 
 /*export default function ErrorBoundary(){
   return (
