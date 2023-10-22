@@ -30,7 +30,7 @@ class ErrorBoundary extends Component {
       // Render a fallback UI when an error occurs
       return (
         <div>
-        <h1>Something went wrong, Errorboundary came to the rescue 😂</h1>
+        <h1>Something went wrong, Errorboundary came to the rescue, 😂</h1>
         <a href="/Home"> 
               <button>Go back to Home Page 😉</button>
               </a>
