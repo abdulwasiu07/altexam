@@ -3,8 +3,8 @@ import "./Toggler.css";
 
 export default function ToggleCounter() {
   const [count, setCount] = useState(0);
-  const incrementCount = () => setCount(count + 2);
-  const derementCount = () => setCount(count - 2);
+  const incrementCount = () => setCount(count + 1);
+  const derementCount = () => setCount(count - 1);
   const reset = () => setCount(count- count);
   const setValue2 = () => {
     let gba = document.getElementById('input');

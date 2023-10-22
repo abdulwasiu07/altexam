@@ -15,7 +15,7 @@ function Home(){
             </Link>
             </div>
         <h1>A Counter Application</h1>
-        <h2>Welcome to my exam, the first button is the Home button, the second is the counter app page, the third button tests the error boundary, and the 4th implements a 404 error page</h2>
+        <h2>Welcome to my exam, the first button at the top left corner is the Home button, the second is the counter app page, the third button tests the error boundary, and the 4th implements a 404 error page</h2>
         <ul>
           <li>
             <Link to="/Togglecounter">
