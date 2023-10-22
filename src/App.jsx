@@ -52,7 +52,7 @@ function PageNotFound() {
   return (
     <div>
       <h2>404 Page not found</h2>
-      <Link to="/Home">
+      <Link to="/App/Home">
 
       <button>Go back to Home Page 😉</button>
       </Link>

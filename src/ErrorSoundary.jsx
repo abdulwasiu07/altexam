@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Link } from 'react-router-dom';
-import Home from './App.jsx';
+import App from './App';
 
 /*export default function ErrorBoundary(){
   return (
@@ -32,7 +32,7 @@ class ErrorBoundary extends Component {
       return (
         <div>
         <h1>Something went wrong, Errorboundary came to the rescue, 😂</h1>
-        <a href="/Home"> 
+        <a href="/App/Home"> 
               <button>Go back to Home Page 😉</button>
               </a>
       </div>
