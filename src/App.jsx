@@ -52,10 +52,10 @@ function PageNotFound() {
   return (
     <div>
       <h2>404 Page not found</h2>
-      <Link to="/App/Home">
+      <a href='https://altexam-ahmadutijanis-projects.vercel.app/'>
 
       <button>Go back to Home Page 😉</button>
-      </Link>
+      </a>
 
     </div>
   );

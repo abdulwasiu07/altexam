@@ -32,7 +32,7 @@ class ErrorBoundary extends Component {
       return (
         <div>
         <h1>Something went wrong, Errorboundary came to the rescue, 😂</h1>
-        <a href="/App/Home"> 
+        <a href='https://altexam-ahmadutijanis-projects.vercel.app/'>
               <button>Go back to Home Page 😉</button>
               </a>
       </div>
